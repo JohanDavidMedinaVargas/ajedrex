@@ -1,0 +1,23 @@
+.azul{
+    background-color:rgb(33, 170, 170) ;
+    
+}
+.borde{
+    color: rgb(18, 116, 116);
+    text-shadow: 2px 2px 2px azure;
+}
+.barra{
+    background-color:blue;
+    border-radius: 1px 1px 1px;
+}
+.historia{
+    color: darkcyan;
+    font-family:cursive;
+    
+}
+.izquierda{
+    float: right;
+}
+.derecha{
+float: left;
+}
